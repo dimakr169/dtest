@@ -4,7 +4,7 @@ To preserve double-blind review, this repository contains a reduced, anonymised 
 **Upon paper acceptance, we will release immediately:**
 - The full working pipeline, including:
   - a complete Conda environment specification,
-  - training scripts, full evaluation scripts 
+  - training and inference scripts 
 - The script used to generate the artificial dataset as described in the paper (along with the RIRs).
 
 ## Examples
