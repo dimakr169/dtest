@@ -11,3 +11,4 @@ To preserve double-blind review, this repository contains a reduced, anonymised 
 The `examples/` directory includes:
 - **In-domain** and **Out-of-domain** test examples for **Cold UNet and DiT variants** along with  **SGMSE+ and CDIffuSE**.
 
+PS: DiT may not run properly in envs with PyTorch <2.9
