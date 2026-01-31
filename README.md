@@ -1,5 +1,3 @@
-# drums_dereverberation
-
 ## Code Availability 
 To preserve double-blind review, this repository contains a reduced, anonymised release focused on demonstration and example-level reproduction.
 
